@@ -1,0 +1,14 @@
+---
+title: "my_ggplot_theme"
+format: html
+---
+
+```{r}
+rm(list = ls())
+```
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+```
+
